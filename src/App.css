@@ -37,9 +37,10 @@
   }
 }
 .btn-wrapper button {
-  background-color: red;
+  background-color: rgb(255, 0, 200);
   border: 0px;
   padding: 10px;
+  margin-right: 13px;
   border-radius: 4px;
   color: #fff;
   box-shadow: #333 0px 1px 5px;
@@ -80,4 +81,15 @@
   height: 20px;
   border-radius: 50%;
   color: #fff;
+}
+button.btn-2 {
+  background-color: black;
+  margin: 13px;
+}
+.spn {
+  font-weight: bold;
+  font-size: x-large;
+  background-color: rgb(117, 107, 105);
+  color: white;
+  padding: 10px;
 }
